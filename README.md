@@ -1,11 +1,11 @@
-# yarn-plugin-dotenv
+# yarn-plugin-dotenv-mono
 
-> A [Yarn 2+ (Berry) plugin](https://yarnpkg.com/features/plugins) to initialize all your scripts with [`dotenv`](https://github.com/motdotla/dotenv)
+> A [Yarn 2+ (Berry) plugin](https://yarnpkg.com/features/plugins) to initialize all your scripts with [`dotenv-mono`](https://github.com/marcocesarato/dotenv-mono)
 
 ## Installation
 
 ```sh
-yarn plugin import https://unpkg.com/yarn-plugin-dotenv/bundles/@yarnpkg/plugin-dotenv.js
+yarn plugin import https://unpkg.com/yarn-plugin-dotenv/bundles/@yarnpkg/plugin-dotenv-mono.js
 ```
 
 ## Usage

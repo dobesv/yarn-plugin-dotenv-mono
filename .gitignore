@@ -2,7 +2,7 @@
 !.yarn/cache
 !.yarn/releases
 
-/bundles/
-
 .vim/
 .vscode/
+.idea/
+
